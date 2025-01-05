@@ -1,7 +1,7 @@
 # Agile Development and Scrum Simulation
 
 🎉 **Certification Project for Introduction to Agile Development and Scrum** 🎉  
-Completed as part of the IBM course with honor.
+Completed as part of the IBM course.
 
 ## 🚀 Project Overview
 This project simulates a 2-week Agile Sprint to demonstrate the key principles and practices of Agile Development and Scrum. It includes creating and managing a Product Backlog, Sprint Backlog, conducting Sprint Planning, and moving stories through various stages of the Kanban board.
